@@ -1,5 +1,5 @@
 #!/usr/bin/env python2
-#
+#ppppppppppp
 # Example to compare the faces in two images.
 # Brandon Amos
 # 2015/09/29
